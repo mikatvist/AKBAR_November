@@ -1,5 +1,5 @@
 public class Batman {
     public static void main(String[] args) {
-        System.out.println("restart");
+        System.out.println("i will catch you joker");
     }
 }
